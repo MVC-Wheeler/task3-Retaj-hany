@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\bin\Debug\net9.0\Task3EngMai.exe
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\bin\Debug\net9.0\Task3EngMai.deps.json
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\bin\Debug\net9.0\Task3EngMai.runtimeconfig.json
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\bin\Debug\net9.0\Task3EngMai.dll
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\bin\Debug\net9.0\Task3EngMai.pdb
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\Task3EngMai.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\Task3EngMai.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\Task3EngMai.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\Task3EngMai.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\Task3EngMai.dll
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\refint\Task3EngMai.dll
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\Task3EngMai.pdb
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\Task3EngMai.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Task3EngMai\Task3EngMai\obj\Debug\net9.0\ref\Task3EngMai.dll

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|c:\\users\\dell\\source\\repos\\task3engmai\\task3engmai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|solutionrelative:task3engmai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|c:\\users\\dell\\source\\repos\\task3engmai\\task3engmai\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|solutionrelative:task3engmai\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|c:\\users\\dell\\source\\repos\\task3engmai\\task3engmai\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|solutionrelative:task3engmai\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|c:\\users\\dell\\source\\repos\\task3engmai\\task3engmai\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9659963-9631-448C-8EB2-05B3F59E604C}|Task3EngMai\\Task3EngMai.csproj|solutionrelative:task3engmai\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Task3EngMai\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Enrollment.cs",
+              "RelativeToolTip": "Task3EngMai\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:47:04.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Course.cs",
+              "RelativeDocumentMoniker": "Task3EngMai\\Course.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Course.cs",
+              "RelativeToolTip": "Task3EngMai\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:46:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Student.cs",
+              "RelativeDocumentMoniker": "Task3EngMai\\Student.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Student.cs",
+              "RelativeToolTip": "Task3EngMai\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:46:04.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Program.cs",
+              "RelativeDocumentMoniker": "Task3EngMai\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Task3EngMai\\Task3EngMai\\Program.cs",
+              "RelativeToolTip": "Task3EngMai\\Program.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAwMUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T21:45:50.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
